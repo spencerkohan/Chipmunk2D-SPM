@@ -1,4 +1,4 @@
-# Chipmunk2D SPM
+# Chipmunk2D for Swift Package Manager
 
 This repository contains the excellent Chipmunk 2D by Howling Moon Software repackaged as a Swift package for use with the Swift Package Manager.
 
