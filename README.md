@@ -5,9 +5,7 @@ This repository contains the excellent Chipmunk 2D by Howling Moon Software repa
 More information about Chipmunk can be found here:
 
 - [Home page](https://chipmunk-physics.net/)
-
 - [Documentation](https://chipmunk-physics.net/documentation.php)
-
 - [Main Chipmunk2D github repository](https://github.com/slembcke/Chipmunk2D), including additional demos
 
 ## Usage
